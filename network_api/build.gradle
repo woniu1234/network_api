@@ -40,7 +40,7 @@ project.afterEvaluate {
 }
 
 dependencies {
-    compileOnly 'com.github.woniu1234:framework:2.0'
+    compileOnly 'com.github.woniu1234:framework:3.0'
     //retrofit2
     api('com.squareup.retrofit2:retrofit:2.9.0')
     api('com.squareup.retrofit2:converter-gson:2.7.1')
